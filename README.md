@@ -1,2 +1,1 @@
-# Manip-Cognition-Data
-Manip-Cognition website
+# gsr.github.io
